@@ -31,4 +31,4 @@ The code is licensed under a GNU General Public License [GPLv3+](http://www.gnu.
 
 ## authors
 
-Vsevolod (Seva) Ivanov <seva@bnarytrails.net>
+Vsevolod (Seva) Ivanov <seva@binarytrails.net>
